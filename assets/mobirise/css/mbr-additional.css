@@ -731,6 +731,10 @@ section.lazy-placeholder:after {
 }
 .cid-s305ISj7hh .card-wrapper {
   height: 100%;
+  background: #891f1f;
+}
+.cid-s305ISj7hh .card-wrapper .card-box {
+  padding: 0 2rem 2rem;
 }
 @media (max-width: 767px) {
   .cid-s305ISj7hh .card:not(.last-child) {
@@ -776,6 +780,10 @@ section.lazy-placeholder:after {
 }
 .cid-s307wzshUF .card-wrapper {
   height: 100%;
+  background: #891f1f;
+}
+.cid-s307wzshUF .card-wrapper .card-box {
+  padding: 0 2rem 2rem;
 }
 @media (max-width: 767px) {
   .cid-s307wzshUF .card:not(.last-child) {
@@ -787,7 +795,7 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-s2OOExlWwf {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 45px;
   background-image: url("../../../assets/images/a1c3-1-1920x823.jpg");
 }
