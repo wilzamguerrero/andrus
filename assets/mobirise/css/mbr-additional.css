@@ -89,7 +89,7 @@ body {
   background-color: #cc2952 !important;
 }
 .bg-success {
-  background-color: #f7ed4a !important;
+  background-color: #3bb33d !important;
 }
 .bg-info {
   background-color: #82786e !important;
@@ -162,23 +162,23 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #f7ed4a !important;
-  border-color: #f7ed4a !important;
-  color: #3f3c03 !important;
+  background-color: #3bb33d !important;
+  border-color: #3bb33d !important;
+  color: #ffffff !important;
 }
 .btn-success:hover,
 .btn-success:focus,
 .btn-success.focus,
 .btn-success.active {
-  color: #3f3c03 !important;
-  background-color: #eadd0a !important;
-  border-color: #eadd0a !important;
+  color: #ffffff !important;
+  background-color: #287929 !important;
+  border-color: #287929 !important;
 }
 .btn-success.disabled,
 .btn-success:disabled {
-  color: #3f3c03 !important;
-  background-color: #eadd0a !important;
-  border-color: #eadd0a !important;
+  color: #ffffff !important;
+  background-color: #287929 !important;
+  border-color: #287929 !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -326,22 +326,22 @@ body {
 .btn-success-outline,
 .btn-success-outline:active {
   background: none;
-  border-color: #d2c609;
-  color: #d2c609;
+  border-color: #226623;
+  color: #226623;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus,
 .btn-success-outline.active {
-  color: #3f3c03;
-  background-color: #f7ed4a;
-  border-color: #f7ed4a;
+  color: #ffffff;
+  background-color: #3bb33d;
+  border-color: #3bb33d;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
-  color: #3f3c03 !important;
-  background-color: #f7ed4a !important;
-  border-color: #f7ed4a !important;
+  color: #ffffff !important;
+  background-color: #3bb33d !important;
+  border-color: #3bb33d !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -424,7 +424,7 @@ body {
   color: #ff3366 !important;
 }
 .text-success {
-  color: #f7ed4a !important;
+  color: #3bb33d !important;
 }
 .text-info {
   color: #82786e !important;
@@ -451,7 +451,7 @@ a.text-secondary:focus {
 }
 a.text-success:hover,
 a.text-success:focus {
-  color: #d2c609 !important;
+  color: #226623 !important;
 }
 a.text-info:hover,
 a.text-info:focus {
@@ -507,7 +507,7 @@ a:hover {
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #92db94;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
@@ -687,18 +687,18 @@ section.lazy-placeholder:after {
 .cid-s35qdi7jbH P {
   color: #e4d295;
 }
-.cid-s2RHPeOF2a {
+.cid-s3xRrZitEF {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/domicilio7-1920x823.jpeg");
 }
-.cid-s2RHPeOF2a P {
+.cid-s3xRrZitEF P {
   color: #767676;
 }
-.cid-s2RHPeOF2a H1 {
+.cid-s3xRrZitEF H1 {
   color: #e4d295;
 }
-.cid-s2RHPeOF2a H3 {
+.cid-s3xRrZitEF H3 {
   color: #e4d295;
 }
 .cid-s305ISj7hh {
@@ -1700,18 +1700,18 @@ section.lazy-placeholder:after {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/a1c3-1-1920x823.jpg");
 }
-.cid-s2ZQbQ2tkO {
+.cid-s3xGv8pkiE {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/domicilio7-1920x823.jpeg");
 }
-.cid-s2ZQbQ2tkO P {
+.cid-s3xGv8pkiE P {
   color: #767676;
 }
-.cid-s2ZQbQ2tkO H1 {
+.cid-s3xGv8pkiE H1 {
   color: #e4d295;
 }
-.cid-s2ZQbQ2tkO H3 {
+.cid-s3xGv8pkiE H3 {
   color: #e4d295;
 }
 .cid-s2ZQbQLZVC {
@@ -2390,18 +2390,18 @@ section.lazy-placeholder:after {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/a1c3-1-1920x823.jpg");
 }
-.cid-s2ZQmDVEc6 {
+.cid-s3xH2e2JdD {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/domicilio7-1920x823.jpeg");
 }
-.cid-s2ZQmDVEc6 P {
+.cid-s3xH2e2JdD P {
   color: #767676;
 }
-.cid-s2ZQmDVEc6 H1 {
+.cid-s3xH2e2JdD H1 {
   color: #e4d295;
 }
-.cid-s2ZQmDVEc6 H3 {
+.cid-s3xH2e2JdD H3 {
   color: #e4d295;
 }
 .cid-s2ZQmEIei1 {
@@ -4497,24 +4497,24 @@ section.lazy-placeholder:after {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/a1c3-1-1920x823.jpg");
 }
-.cid-s2ZQy9n3N7 {
+.cid-s3xRlXBx6P {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/domicilio7-1920x823.jpeg");
 }
-.cid-s2ZQy9n3N7 P {
+.cid-s3xRlXBx6P P {
   color: #767676;
 }
-.cid-s2ZQy9n3N7 H1 {
+.cid-s3xRlXBx6P H1 {
   color: #e4d295;
 }
-.cid-s2ZQy9n3N7 H3 {
+.cid-s3xRlXBx6P H3 {
   color: #e4d295;
 }
 .cid-s2ZQynPyaG {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/a1c3-1-1920x823.jpg");
+  background-image: url("../../../assets/images/jugos-naturales-2000x1330.jpg");
 }
 @media (min-width: 992px) {
   .cid-s2ZQynPyaG .mbr-figure {
@@ -4537,6 +4537,198 @@ section.lazy-placeholder:after {
   color: #e4d295;
 }
 .cid-s2ZQynPyaG H1 {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s3xM1O1pjZ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/istock-177739371-1189x882.jpg");
+}
+.cid-s3xM1O1pjZ .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-s3xM1O1pjZ .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s3xM1O1pjZ .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s3xM1O1pjZ .mbr-text {
+    text-align: center;
+  }
+}
+.cid-s3xM1O1pjZ .mbr-text,
+.cid-s3xM1O1pjZ .mbr-section-btn {
+  text-align: center;
+  color: #e4d295;
+}
+.cid-s3xM1O1pjZ H1 {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s3xNbjR7Er {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/por-que-nunca-debes-rellenar-de-agua-una-botella-de-plastico-1600x900.jpg");
+}
+@media (min-width: 992px) {
+  .cid-s3xNbjR7Er .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s3xNbjR7Er .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s3xNbjR7Er .mbr-text {
+    text-align: center;
+  }
+}
+.cid-s3xNbjR7Er .mbr-text,
+.cid-s3xNbjR7Er .mbr-section-btn {
+  text-align: center;
+  color: #e4d295;
+}
+.cid-s3xNbjR7Er H1 {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s3xNyiSxcl {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/gaseosas-te-2000x1500.jpg");
+}
+.cid-s3xNyiSxcl .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-s3xNyiSxcl .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s3xNyiSxcl .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s3xNyiSxcl .mbr-text {
+    text-align: center;
+  }
+}
+.cid-s3xNyiSxcl .mbr-text,
+.cid-s3xNyiSxcl .mbr-section-btn {
+  text-align: center;
+  color: #e4d295;
+}
+.cid-s3xNyiSxcl H1 {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s3xPpGRjrh {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/cerveza-corona-1280x720-1-1280x720.jpg");
+}
+@media (min-width: 992px) {
+  .cid-s3xPpGRjrh .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s3xPpGRjrh .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s3xPpGRjrh .mbr-text {
+    text-align: center;
+  }
+}
+.cid-s3xPpGRjrh .mbr-text,
+.cid-s3xPpGRjrh .mbr-section-btn {
+  text-align: center;
+  color: #e4d295;
+}
+.cid-s3xPpGRjrh H1 {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s3xPLwtM6f {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/44763-1200x802.jpg");
+}
+.cid-s3xPLwtM6f .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-s3xPLwtM6f .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s3xPLwtM6f .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s3xPLwtM6f .mbr-text {
+    text-align: center;
+  }
+}
+.cid-s3xPLwtM6f .mbr-text,
+.cid-s3xPLwtM6f .mbr-section-btn {
+  text-align: center;
+  color: #e4d295;
+}
+.cid-s3xPLwtM6f H1 {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s3xQ6u3kdd {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/vino-caliente-2-scaled-2000x1334.jpg");
+}
+@media (min-width: 992px) {
+  .cid-s3xQ6u3kdd .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s3xQ6u3kdd .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s3xQ6u3kdd .mbr-text {
+    text-align: center;
+  }
+}
+.cid-s3xQ6u3kdd .mbr-text,
+.cid-s3xQ6u3kdd .mbr-section-btn {
+  text-align: center;
+  color: #e4d295;
+}
+.cid-s3xQ6u3kdd H1 {
   text-align: center;
   color: #ffffff;
 }
@@ -5088,18 +5280,18 @@ section.lazy-placeholder:after {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/a1c3-1-1920x823.jpg");
 }
-.cid-s2ZQpR5Top {
+.cid-s3xIEq17TM {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/domicilio7-1920x823.jpeg");
 }
-.cid-s2ZQpR5Top P {
+.cid-s3xIEq17TM P {
   color: #767676;
 }
-.cid-s2ZQpR5Top H1 {
+.cid-s3xIEq17TM H1 {
   color: #e4d295;
 }
-.cid-s2ZQpR5Top H3 {
+.cid-s3xIEq17TM H3 {
   color: #e4d295;
 }
 .cid-s2ZQpRJGKN {
@@ -5171,15 +5363,9 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/a1c3-1-1920x823.jpg");
 }
-.cid-s2ZQpUUkhH .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
 @media (min-width: 992px) {
   .cid-s2ZQpUUkhH .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
@@ -5206,9 +5392,15 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/a1c3-1-1920x823.jpg");
 }
+.cid-s2ZQpVHy9S .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
 @media (min-width: 992px) {
   .cid-s2ZQpVHy9S .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
@@ -5235,15 +5427,9 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/a1c3-1-1920x823.jpg");
 }
-.cid-s2ZQpWvFTf .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
 @media (min-width: 992px) {
   .cid-s2ZQpWvFTf .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
@@ -5270,9 +5456,15 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/a1c3-1-1920x823.jpg");
 }
+.cid-s35zfKeGyO .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
 @media (min-width: 992px) {
   .cid-s35zfKeGyO .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
@@ -5299,15 +5491,9 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/a1c3-1-1920x823.jpg");
 }
-.cid-s35zFVixLE .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
 @media (min-width: 992px) {
   .cid-s35zFVixLE .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
@@ -5877,18 +6063,18 @@ section.lazy-placeholder:after {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/a1c3-1-1920x823.jpg");
 }
-.cid-s35BwP5YSl {
+.cid-s3xRff0Fzk {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/domicilio7-1920x823.jpeg");
 }
-.cid-s35BwP5YSl P {
+.cid-s3xRff0Fzk P {
   color: #767676;
 }
-.cid-s35BwP5YSl H1 {
+.cid-s3xRff0Fzk H1 {
   color: #e4d295;
 }
-.cid-s35BwP5YSl H3 {
+.cid-s3xRff0Fzk H3 {
   color: #e4d295;
 }
 .cid-s35BwPGyPl {
@@ -5920,20 +6106,49 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #ffffff;
 }
+.cid-s3xSddyv0g {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mozzarella-gigapixel-scale-4-00x-2000x1331.jpg");
+}
+.cid-s3xSddyv0g .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-s3xSddyv0g .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s3xSddyv0g .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s3xSddyv0g .mbr-text {
+    text-align: center;
+  }
+}
+.cid-s3xSddyv0g .mbr-text,
+.cid-s3xSddyv0g .mbr-section-btn {
+  text-align: center;
+  color: #e4d295;
+}
+.cid-s3xSddyv0g H1 {
+  text-align: center;
+  color: #ffffff;
+}
 .cid-s35GFnW9ff {
   padding-top: 60px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/pan-de-ajo-2000x1333.jpg");
 }
-.cid-s35GFnW9ff .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
 @media (min-width: 992px) {
   .cid-s35GFnW9ff .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
